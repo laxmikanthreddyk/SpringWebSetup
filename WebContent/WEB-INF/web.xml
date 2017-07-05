@@ -33,9 +33,9 @@
   <context-param>
     <param-name>contextConfigLocation</param-name>
     <param-value>
-		classpath:com/cognizant/spring/web/config/dao-context.xml
-		classpath:com/cognizant/spring/web/config/service-context.xml
-		classpath:com/cognizant/spring/web/config/security-context.xml
+		/WEB-INF/properties/dao-context.xml
+		/WEB-INF/properties/service-context.xml
+		/WEB-INF/properties/security-context.xml
 		</param-value>
   </context-param> 
   <filter>
