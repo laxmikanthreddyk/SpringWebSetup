@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+
+.label{
+	text-align: right;
+	vertical-align: top;
+}
+
+.error
+{
+	font-size: small;
+	color: red;	
+	margin-left: 10px;
+}
